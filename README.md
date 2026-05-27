@@ -33,7 +33,7 @@ The analysis ranks sectors by Sharpe ratio, identifying which offered the best r
 
 ## Files
 
-- `analisis_sectores.ipynb` — Full analysis notebook
+- `StocksSP500.ipynb` — Full analysis notebook
 - `resumen_acciones.csv` — Per-stock metrics
 - `ranking_sectores.csv` — Per-sector aggregated metrics
 - `retornos_diarios.csv` — Daily returns dataset
